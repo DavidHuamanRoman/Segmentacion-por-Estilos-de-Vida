@@ -1,5 +1,7 @@
 /* styles.css */
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@400;600&display=swap');
+
 /* --- Reset Básico y Estilos Globales --- */
 body {
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Fuente legible y moderna */
@@ -64,6 +66,7 @@ p {
     font-style: italic; /* Cursiva para el autor */ 
     background-color: #f7d9d9fa;
     margin-top: 1.5em; /* Espaciado superior */
+    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Fuente legible y moderna */
 }
 
 /* --- Estilos de Listas --- */
